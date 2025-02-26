@@ -2,4 +2,4 @@
 
 Aqui podrás encontrar algunos ejemplos de dashboards que he realizado.
 
-https://postimg.cc/sGYz5NZy
+[![Tableau-Logo.jpg](https://i.postimg.cc/L57sFd9q/Tableau-Logo.jpg)](https://postimg.cc/sGYz5NZy)
